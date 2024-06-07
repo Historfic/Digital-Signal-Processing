@@ -1,0 +1,8 @@
+1. Install the packages for the DSP application using the command in the terminal 
+current directory "pip install -r requirements.txt"
+
+2. Run main.py
+
+
+
+
